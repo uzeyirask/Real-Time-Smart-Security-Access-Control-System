@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f9b45c5-7dd2-4408-9c9b-7b94b39fb67b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EncodeGenarator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncodeGeneration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/216ssilber.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/216uzeyir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/AngelinaJolie(216).png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Benedict Cumberbatch216.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/ElonMusk216.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/EmilyBlunk216.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000110.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Johndeeep216.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/000111.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scarlett_Johansson(216).png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/001100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/kuzy216.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/001000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EncodeFile.p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EncodeGenarator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/000011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/000100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/000110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/000111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/001000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/001100.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.EncodeGenarator.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Uzeyir/Downloads/BM425-Paralel-Hesaplama-main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EncodeGenarator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EncodeGeneration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Uzeyir/Downloads/BM425-Paralel-Hesaplama-main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Uzeyir\Desktop\bitirmeProjem\pythonProject\Resources\Models" />
@@ -78,6 +78,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EncodeGenarator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EncodeGeneration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EncodeGeneration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EncodeGeneration" />
         <item itemvalue="Python.EncodeGenarator" />
       </list>
     </recent_temporary>
