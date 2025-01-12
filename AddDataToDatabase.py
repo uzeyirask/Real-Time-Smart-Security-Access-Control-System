@@ -13,57 +13,63 @@ ref = db.reference('Users')
 data = {
     "142536":
         {
-            "Isim": "Uzeyir ASKIN",
+            "Isim": "Muhammed Uzeyir ASKIN",
             "Gorevi": "Ogrenci",
+            "Alan": "Bilgisayar Muhendisligi",
             "Baslangic_tarihi": 2020,
-            "Toplam_giris":6,
+            "Toplam_giris":777,
             "Yil":4,
-            "Son_Giris_saati": "2024-12-19 04.25.01"
+            "Son_Giris_saati": "10-12-2024 04:25:01"
         },
     "172839":
         {
             "Isim": "Ilber ORTAYLI",
             "Gorevi": "Profesor",
+            "Alan": "Tarih",
             "Baslangic_tarihi": 2007,
-            "Toplam_giris":8,
+            "Toplam_giris":0,
             "Yil":9,
-            "Son_Giris_saati": "2023-10-14 14.29.45"
+            "Son_Giris_saati": "10-12-2024 04:25:01"
         },
     "193728":
         {
             "Isim": "Zafer SERIN",
             "Gorevi": "Ogretim Gorevlisi",
+            "Alan": "Bilgisayar Muhendisligi",
             "Baslangic_tarihi": 2014,
-            "Toplam_giris":72,
+            "Toplam_giris":0,
             "Yil":9,
-            "Son_Giris_saati": "2024-12-26 09.01.32"
+            "Son_Giris_saati": "10-12-2024 04:25:01"
         },
     "147896":
         {
             "Isim": "UĞUR YÜZGEÇ",
             "Gorevi": "Prof. Dr.",
+            "Alan": "Bilgisayar Muhendisligi",
             "Baslangic_tarihi": 2010,
-            "Toplam_giris":144,
+            "Toplam_giris":0,
             "Yil":15,
-            "Son_Giris_saati": "2023-10-14 14.29.45"
+            "Son_Giris_saati": "10-12-2024 04:25:01"
         },
     "159357":
         {
             "Isim": "EMRE DANDIL",
             "Gorevi": "Doç. Dr.",
+            "Alan": "Bilgisayar Muhendisligi",
             "Baslangic_tarihi": 2011,
-            "Toplam_giris":125,
+            "Toplam_giris":0,
             "Yil":14,
-            "Son_Giris_saati": "2023-10-14 14.29.45"
+            "Son_Giris_saati": "10-12-2024 04:25:01"
         },
     "369874":
         {
             "Isim": "Yusuf TÜRKEN",
             "Gorevi": "Ogrenci",
+            "Alan": "Bilgisayar Muhendisligi",
             "Baslangic_tarihi": 2020,
-            "Toplam_giris":19,
+            "Toplam_giris":0,
             "Yil":5,
-            "Son_Giris_saati": "2023-10-14 14.29.45"
+            "Son_Giris_saati": "10-12-2024 04:25:01"
         }
 }
 #verileri gondermek icin
