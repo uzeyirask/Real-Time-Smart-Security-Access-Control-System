@@ -172,3 +172,4 @@ firebase-debug.log
 venv310/
 .idea/
 EncodeGeneration.py
+key.key
