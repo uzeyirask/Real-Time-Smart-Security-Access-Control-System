@@ -81,8 +81,8 @@ The project demonstrates high accuracy and real-time performance by combining AI
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+git clone https://github.com/uzeyirask/Real-Time-Smart-Security-Access-Control-System.git
+cd Real-Time-Smart-Security-Access-Control-System
 pip install -r requirements.txt
 python main.py
 ```
