@@ -39,7 +39,7 @@ The primary goal of this project is to enhance and automate security control mec
 ```mermaid
 flowchart TD
     A[Camera] -->|Capture Frame| B(main.py)
-    B -->|Yüz Kodlama| C{face_recognition}
+    B -->|Face Encoding| C{face_recognition}
     C -->|Compare| D[(Firebase DB)]
     D -->|Get User Info| B
     B -->|Display Info| E[OpenCV GUI]
